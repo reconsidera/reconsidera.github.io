@@ -4,7 +4,7 @@ heroImage: null
 heroText: 數字極權時代生存手記 3.0
 tagline: Record Of Survival In Digital Totalitarian Era
 actionText: 開始閱讀 →
-actionLink: /book/
+actionLink: /docs/book/
 features:
 - title: 突破網絡封鎖
   details: Bypass-GFW/Circumvent Internet Blockade
