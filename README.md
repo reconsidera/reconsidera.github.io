@@ -25,7 +25,7 @@ Meanwile, it also serves as a personal answer to the question of what an individ
 
 《數字極權時代生存手記》是 Luterngun 自 2017 年以來在突破網絡封鎖、反抗網絡審查、網絡安全、網絡匿名等方面的學習與實踐成果的記錄，同時也是對「面對中國數字利維坦，普通人可以做什麼」這個問題的個體化回應、一部關於數字反抗的通俗科普讀物，希望能對反抗數字極權統治道路上的後來者有所幫助。
 
-repo 的名字 “reconsidera” (“reconsider”+“a”) 由 ”Record Of Survival In Digital Totalitarian Era” 的首字母縮寫改寫而來。
+repo 的名字 “reconsidera” (reconsider+a) 由 ”Record Of Survival In Digital Totalitarian Era” 的首字母縮寫改寫而來。
 
 ## Anti-Cencorship
 
