@@ -26,7 +26,7 @@ Meanwile, it also serves as a personal answer to the question of what an individ
 
 《数字极权时代生存手记》是 Luterngun 自 2017 年以来在突破网络封锁、反抗网络审查、网络安全、网络匿名等方面的学习与实践成果的记录，同时也是对“面对中国数字利维坦，普通人可以做什么”这个问题的个体化回应、一部关于数字反抗的非专业/通俗科普读物，希望能对反抗数字极权统治道路上的后来者有所帮助。  
 
-仓库的名字 “reconsidera” = “reconsider” + “a”，由 ”Record Of Survival In Digital Totalitarian Era” 的首字母缩写改写而来。
+仓库的名字 “reconsidera” (reconsider+a) 由 ”Record Of Survival In Digital Totalitarian Era” 的首字母缩写改写而来。
 
 
 ## Anti-Cencorship
