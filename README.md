@@ -93,4 +93,4 @@ This project is licensed under CC-BY-SA 4.0
 
 ## Star History
 
-![stars](https://starchart.cc/reconsidera/reconsidera.githuhb.io.svg)
+![stars](https://starchart.cc/reconsidera/reconsidera.github.io.svg)
