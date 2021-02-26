@@ -4,7 +4,7 @@ heroImage: null
 heroText: 数字极权时代生存手记 3.0
 tagline: Record Of Survival In Digital Totalitarian Era
 actionText: 开始阅读 →
-actionLink: /zh/book/
+actionLink: /docs/zh/book/
 features:
 - title: 突破网络封锁
   details: Bypass-GFW/Circumvent Internet Blockade
