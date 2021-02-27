@@ -96,7 +96,7 @@ module.exports = {
     repo: 'reconsidera/reconsidera.github.io',
     repoLabel: '查看原碼',
     docsRepo: 'reconsidera/reconsidera.github.io',
-    docsDir: '/',
+    docsDir: 'reconsidera.github.io',
     docsBranch: 'main'
   }
 }
