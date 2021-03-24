@@ -47,8 +47,8 @@ If you want to report bugs, provide contents or have some proposals for this rep
 
 ## Contributers
 
-[Luterngun](https://github.com/Luterngun) owner 
-
+[Luterngun](https://github.com/Luterngun) owner  
+[zhongkechen](https://github.com/zhongkechen)  
 
 
 ## Creditable Distributors
