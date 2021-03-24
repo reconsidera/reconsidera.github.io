@@ -16,6 +16,7 @@ module.exports = {
       '/': {
         selectText: '选择语言',
         label: '繁體中文',
+        lastUpdated: '上次更新',
         ariaLabel: '选择语言',
         algolia: {},
         nav: [
@@ -56,6 +57,7 @@ module.exports = {
         selectText: '選擇語言',
         label: '简体中文',
         ariaLabel: '選擇語言',
+        lastUpdated: '上次更新',
         algolia: {},
         nav: [
           { text: '主页',  link: '/zh/' },
