@@ -83,6 +83,7 @@ Mastodon: [Luterngun](https://mastodon.social/@Sidte)
 
 Twitter: [数字极权时代生存手记](https://twitter.com/Luterngun453)
 
+2047: [Luterngun](https://2047.name/u/6740)  
 
 
 ## License
