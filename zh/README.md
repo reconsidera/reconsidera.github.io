@@ -41,9 +41,9 @@ You can use URL shorteners such as https://git.io to transform the original link
 
 ## Collaborations
 
-If you want to report bugs, provide contents or have some proposals for this repo, please [open an Issue](https://github.com/reconsidera/reconsidera.github.io/issues). 
+If you want to report bugs, provide contents or have some proposals for this repo, please [open an Issue](https://github.com/reconsidera/reconsidera.github.io/issues) or [submit a Pull request](https://github.com/reconsidera/reconsidera.github.io/pulls).  
 
-如果你想指正本作品中的错误、贡献内容或者提出建议，请[提交 Issue](https://github.com/reconsidera/reconsidera.github.io/issues)。
+如果你想指正本作品中的错误、贡献内容或者提出建议，请[提交 Issue](https://github.com/reconsidera/reconsidera.github.io/issues)或[发起 Pull Request](https://github.com/reconsidera/reconsidera.github.io/pulls)。。
 
 
 
@@ -51,23 +51,21 @@ If you want to report bugs, provide contents or have some proposals for this rep
 
 [Luterngun](https://github.com/Luterngun) owner  
 [zhongkechen](https://github.com/zhongkechen)
-
+[onrw](https://github.com/onrw) 
 
 ## Creditable Distributors
 
 - [China Digital Times](https://chinadigitaltimes.net/)   
-
   [中国数字时代｜Matters | Luterngun：数字极权的铁幕下，我们已退无可退](https://chinadigitaltimes.net/chinese/636353.html)  
 
-- [libgen](https://2047.name/u/2764)
+- [libgen](https://2047.one/u/2764)
 
-- [爱狗却养猫](https://2047.name/u/3793)  
-
-  [2047｜爱狗却养猫：《數字極權時代生存手記》2.0 版](https://2047.name/t/9898)
-
+- [爱狗却养猫](https://2047.one/u/3793)  
+  [2047｜爱狗却养猫：《數字極權時代生存手記》2.0 版](https://2047.one/t/9898)
 
 
-## E-books
+
+## eBooks
 
 You can download the all-in-one Markdown file `reconsidera.md` in this repo and convert it to any e-book formats with tools such as [Pandoc](https://pandoc.org/) by yourself. However, that file is not guranteed to be up to date.
 
@@ -77,15 +75,11 @@ You can download the all-in-one Markdown file `reconsidera.md` in this repo and 
 
 ## Contacts
 
-GitHub: [Luterngun](https://github.com/Luterngun)
-
-Matters: [Luterngun](https://matters.news/@Luterngun)
-
-Mastodon: [Luterngun](https://mastodon.social/@Sidte)
-
-Twitter: [数字极权时代生存手记](https://twitter.com/Luterngun453)
-
-2047: [Luterngun](https://2047.name/u/6740)  
+GitHub: [Luterngun](https://github.com/Luterngun)  
+Matters: [Luterngun](https://matters.news/@Luterngun)  
+Mastodon: [Luterngun](https://mastodon.social/@Sidte)  
+Twitter: [数字极权时代生存手记](https://twitter.com/Luterngun453)  
+2047: [Luterngun](https://2047.one/u/6740)  
 
 
 ## License
@@ -111,6 +105,6 @@ This project is licensed under CC-BY-SA 4.0
 
 
 
-## Star History
+## Stargazers over time
 
 ![stars](https://starchart.cc/reconsidera/reconsidera.github.io.svg)
