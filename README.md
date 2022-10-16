@@ -41,7 +41,7 @@ You can use URL shorteners such as https://git.io to transform the original link
 
 If you want to report bugs, provide contents or have some proposals for this repo, please [open an Issue](https://github.com/reconsidera/reconsidera.github.io/issues) or [submit a Pull request](https://github.com/reconsidera/reconsidera.github.io/pulls).
 
-如果你想指正本作品中的錯誤、貢獻內容或者提出建議，請[提交 Issue](https://github.com/reconsidera/reconsidera.github.io/issues)或[發起 Pull Request](https://github.com/reconsidera/reconsidera.github.io/pulls)。
+如果你想指正本作品中的錯誤、貢獻內容或者提出建議，請[提交 Issue](https://github.com/reconsidera/reconsidera.github.io/issues) 或[發起 Pull Request](https://github.com/reconsidera/reconsidera.github.io/pulls)。
 
 
 
