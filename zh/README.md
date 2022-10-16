@@ -43,14 +43,14 @@ You can use URL shorteners such as https://git.io to transform the original link
 
 If you want to report bugs, provide contents or have some proposals for this repo, please [open an Issue](https://github.com/reconsidera/reconsidera.github.io/issues) or [submit a Pull request](https://github.com/reconsidera/reconsidera.github.io/pulls).  
 
-如果你想指正本作品中的错误、贡献内容或者提出建议，请[提交 Issue](https://github.com/reconsidera/reconsidera.github.io/issues)或[发起 Pull Request](https://github.com/reconsidera/reconsidera.github.io/pulls)。。
+如果你想指正本作品中的错误、贡献内容或者提出建议，请[提交 Issue](https://github.com/reconsidera/reconsidera.github.io/issues) 或[发起 Pull Request](https://github.com/reconsidera/reconsidera.github.io/pulls)。
 
 
 
 ## Contributers
 
 [Luterngun](https://github.com/Luterngun) owner  
-[zhongkechen](https://github.com/zhongkechen)
+[zhongkechen](https://github.com/zhongkechen)  
 [onrw](https://github.com/onrw) 
 
 ## Creditable Distributors
