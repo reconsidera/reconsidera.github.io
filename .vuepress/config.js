@@ -94,6 +94,7 @@ module.exports = {
         ]
       }
     },
+    lastUpdated: 'Last Updated',
     repo: 'reconsidera/reconsidera.github.io',
     repoLabel: '查看原碼',
     docsRepo: 'reconsidera/reconsidera.github.io',
