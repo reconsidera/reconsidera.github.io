@@ -6,5 +6,5 @@
 - 反抗信息操纵
 - 捍卫数字权利
 
+[开始阅读](README)
 [GitHub](https://github.com/reconsidera/reconsidera.github.io/)
-[Getting Started](README)
