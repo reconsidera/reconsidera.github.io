@@ -27,11 +27,6 @@
   [2047｜爱狗却养猫：《數字極權時代生存手記》2.0 版](https://2047.one/t/9898)
 
 
-## eBooks
-
-你可以下载仓库中的 Markdown 文件 `reconsidera.md` 并使用 [Pandoc](https://pandoc.org/) 等工具自行把它转换成电子书格式。不过，不能保证该文件是最新的。
-
-
 ## Contacts
 
 GitHub: [Luterngun](https://github.com/Luterngun)  
